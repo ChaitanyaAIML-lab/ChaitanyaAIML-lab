@@ -12,7 +12,6 @@ Open-source projects related to AI and machine learning
 Data science projects and research
 Any interesting and innovative tech solutions
 📫 How to reach me:
-Twitter: @Chaitanya_AI_ML
 Email: 16chaitanyaa@gmail.com
 😄 Pronouns:
 He/Him
