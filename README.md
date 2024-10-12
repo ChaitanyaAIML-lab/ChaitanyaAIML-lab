@@ -11,8 +11,6 @@ Mathematical foundations for machine learning
 Open-source projects related to AI and machine learning
 Data science projects and research
 Any interesting and innovative tech solutions
-📫 How to reach me:
-Email: 16chaitanyaa@gmail.com
 😄 Pronouns:
 He/Him
 ⚡ Fun fact:
