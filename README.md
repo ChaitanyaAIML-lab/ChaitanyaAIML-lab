@@ -12,7 +12,6 @@ Open-source projects related to AI and machine learning
 Data science projects and research
 Any interesting and innovative tech solutions
 😄 Pronouns:
-He/Him
 ⚡ Fun fact:
 I’m passionate about integrating AI with real-world applications and enjoy sharing my learning journey with the community.
 
